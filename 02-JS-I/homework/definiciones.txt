@@ -1,0 +1,9 @@
+Variables: Son elementos que nos permiten almacenar valores para poder utilizarlos mas adelante.
+
+Strings: Es un tipo de dato, asi como un entero es un tipo de dato numérico, un string es un tipo de dato que contiene caracteres de cualquier tipo. Pero con los cuales obviamente nó se pueden hacer operaciones matemáticas.
+
+Funciones: Son objetos algo mas elaborados que permiten almacenar algun procedimiento particular, por ejemplo una suma, entonces si necesitamos utilizar una suma en cualquier parte del programa, sólo con llamar a esa funcion suma e ingresarle los valores que queremos sumar (argumentos), ésta nos devolverá el resultado de esa suma (return).
+
+Declaraciones: Para poder utilizar una variable, por ejemplo si nuevamente queremos hacer una suma, bien sea para usar en una funcion o en otro caso, debemos declararla primero, es decir, si queremos sumar A + B, debemos declarar que A y B sean varibles de tipo numéricas para que se puedan sumar. Y podríamos darle una condición más a nuestra función, y decirle que ademas de sumar A y B, el resultado nos diga si es un valorgrande si el resultado es mayor a 10, o si no lo es, que diga que es un valorpequeño (if).
+
+Valores booleanos: Son un tipo de datos el cual sólo puede tener 2 posibles valores, o verdadero o falso, por ejemplo podríamos hacer una función, que si el resultado de la suma nos diera un número mayor a 18, entonces nuestra variable booleana mayoriadeedad sería igual a verdadero, de lo contrario sería falso.
