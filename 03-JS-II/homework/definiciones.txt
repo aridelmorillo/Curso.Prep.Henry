@@ -1,0 +1,3 @@
+for: Es una herramienta de control, que nos permite realizar repeticiones de un determinado código las veces que queramos.
+
+&&, ||, !: Se les llama operadores lógicos, y sirven para cuando estamos trabajando con una función, podamos delimitarla a nuestra necesidad. Si requerimos poner una condicion de ejecutar un código que nos diga si un estudiante online tenga permitido o no acceder a una página, podemos delimitarlo utilizando el operador &&, por ejemplo: Para acceder al 2do módulo de Javascript, necesitamos que el estudiante haya aprobado el 1er módulo primero y que adicional se encuentre activa su suscripción: (modulo2aprobado && suscripción = 1).
