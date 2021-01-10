@@ -1,0 +1,1 @@
+arrays: Como su nombre en inglés lo indica, son arreglos, arreglos de datos. Podemos pensar en ellos como unas cajas donde adentro podemos guardar todo tipo de cosas que nos sean útiles para después. Bien sean datos de tipo string, booleanos, integers, funciones u otros arreglos para ser utilizados o llamados mas adelante.
